@@ -1,4 +1,7 @@
-# vultr-manage
+# IP Guard 
+
+> 项目基于vue、element-ui，本项目为前端源码，前端基于vue，  
+>[查看服务端源码: ip-guard-server](https://github.com/dbgee/ip-guard-server)
 
 ## Project setup
 ```
@@ -14,11 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
