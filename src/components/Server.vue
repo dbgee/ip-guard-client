@@ -87,6 +87,7 @@
                 this.fetchServers();
                 this.$message.success("获取服务器...")
 
+
             },
             addServer(){
                 this.axios.get("/add").
